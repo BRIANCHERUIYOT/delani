@@ -1,6 +1,27 @@
-.container{ 
-    margin: 0px;
-    padding: 0px;
-    background-image: url(./delanipics/backgrounds/top.jpg) ;
-    background: cover;
+.landingpage{
+    background-image: url("./delanipics/backgrounds/top.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+
+}
+
+.landingpage .name{
+    color: white; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.services{
+    background-image: url("./delanipics/backgrounds/port.jpg");
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.service-content{
+    color: white;
 }
