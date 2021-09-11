@@ -25,3 +25,12 @@
 .service-content{
     color: white;
 }
+
+.contactus{
+    color: white;
+    background-image: url("./delanipics/assets/backgrounds/c_image.jpg");
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
