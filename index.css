@@ -34,3 +34,25 @@
     background-repeat: no-repeat;
     background-size:cover;
 }
+
+/* contact us begins */
+#form input{
+    background-color: transparent;
+    color:white;
+    width:20%;
+    }
+    ::placeholder{
+        color: white;
+        padding: 10px;
+    }
+    #form input[type=button]{
+        background-color:grey;
+        margin-bottom: 10px;
+    }
+    
+    textarea{
+    background-color: transparent;
+    color:white;
+    margin-top:20px;
+    margin-bottom: 10px;
+    }
