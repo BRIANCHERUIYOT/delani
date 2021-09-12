@@ -4,7 +4,7 @@ $(document).ready(function() {
         $(".design").toggle();
       });
       $(".design").click(function() {
-        $("git add.design").toggle();
+        $(".design").toggle();
           $("#img1").toggle();
         });
 
