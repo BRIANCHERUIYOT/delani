@@ -68,6 +68,7 @@
     margin-top:50%;
 
 }
+
 #copyright{
     font-size: 24px;
 }
@@ -81,6 +82,24 @@
     display: none;
 }
 
-.txt1 ,.txt2 ,.txt3 ,.txt4 ,.txt5 ,.txt6 ,.txt7 ,.txt8{
-    display: none;
+
+.pic1,.pic2,.pic3,.pic4,.pic5,.pic6,.pic7,.pic8{
+    position: relative;
 }
+
+.txt{
+    display: none;
+    position: absolute;
+    text-align: center;
+    color:white;
+    height: 90%;
+    width: 90%;
+    font-size: 20px;
+    padding-top:35px;
+    background-color: black;
+    opacity: 0.8;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid  white;
+    }
