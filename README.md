@@ -1,5 +1,5 @@
 # DELANI STUDIOS
-#### {showcases delani studio work of and also takes user information }, {13/9/2021 }
+#### {Showcases delani studio work of and also takes user information}, {13/9/2021}
 #### By **{BRIAN CHERUIYOT}**
 ## Description
 show cases delani studio work of art and also intakes users information so that one can reach out to them
